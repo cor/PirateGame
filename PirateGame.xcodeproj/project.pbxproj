@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		876937581917A7120067E91E /* COREnemy.m in Sources */ = {isa = PBXBuildFile; fileRef = 876937571917A7120067E91E /* COREnemy.m */; };
+		8769375B1917A81D0067E91E /* COREnemyFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 8769375A1917A81D0067E91E /* COREnemyFactory.m */; };
+		878A6C4E191806A0005D5F9C /* leatherArmor.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C4D191806A0005D5F9C /* leatherArmor.png */; };
+		878A6C5019180E85005D5F9C /* woodenSword.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C4F19180E85005D5F9C /* woodenSword.png */; };
+		878A6C5B19181E2C005D5F9C /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5119181E2C005D5F9C /* Icon-40@2x.png */; };
+		878A6C5C19181E2C005D5F9C /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5219181E2C005D5F9C /* Icon-40.png */; };
+		878A6C5D19181E2C005D5F9C /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5319181E2C005D5F9C /* Icon-Small.png */; };
+		878A6C5E19181E2C005D5F9C /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5419181E2C005D5F9C /* Icon-76.png */; };
+		878A6C5F19181E2C005D5F9C /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5519181E2C005D5F9C /* iTunesArtwork@2x.png */; };
+		878A6C6019181E2C005D5F9C /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5619181E2C005D5F9C /* Icon-60.png */; };
+		878A6C6119181E2C005D5F9C /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5719181E2C005D5F9C /* iTunesArtwork.png */; };
+		878A6C6219181E2C005D5F9C /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5819181E2C005D5F9C /* Icon-60@2x.png */; };
+		878A6C6319181E2C005D5F9C /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5919181E2C005D5F9C /* Icon-76@2x.png */; };
+		878A6C6419181E2C005D5F9C /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 878A6C5A19181E2C005D5F9C /* Icon-Small@2x.png */; };
 		87A78CF41915125A0048834A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87A78CF31915125A0048834A /* Foundation.framework */; };
 		87A78CF61915125A0048834A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87A78CF51915125A0048834A /* CoreGraphics.framework */; };
 		87A78CF81915125A0048834A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87A78CF71915125A0048834A /* UIKit.framework */; };
@@ -21,6 +35,16 @@
 		87A78D151915125A0048834A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87A78CF71915125A0048834A /* UIKit.framework */; };
 		87A78D1D1915125A0048834A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 87A78D1B1915125A0048834A /* InfoPlist.strings */; };
 		87A78D1F1915125A0048834A /* PirateGameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 87A78D1E1915125A0048834A /* PirateGameTests.m */; };
+		87A78D2B19151DE90048834A /* CORCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = 87A78D2A19151DE90048834A /* CORCharacter.m */; };
+		87A78D2E19151E300048834A /* CORWeapon.m in Sources */ = {isa = PBXBuildFile; fileRef = 87A78D2D19151E300048834A /* CORWeapon.m */; };
+		87A78D31191527730048834A /* CORArmor.m in Sources */ = {isa = PBXBuildFile; fileRef = 87A78D30191527730048834A /* CORArmor.m */; };
+		87A78D3319152A8F0048834A /* PixelPirate.png in Resources */ = {isa = PBXBuildFile; fileRef = 87A78D3219152A8F0048834A /* PixelPirate.png */; };
+		87A78D38191548620048834A /* CORTileFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 87A78D37191548620048834A /* CORTileFactory.m */; };
+		87A78D3E19154AF70048834A /* CORTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 87A78D3D19154AF70048834A /* CORTile.m */; };
+		87A78D4119156FD60048834A /* CORWeaponFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 87A78D4019156FD60048834A /* CORWeaponFactory.m */; };
+		87A78D441915771D0048834A /* CORArmorFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 87A78D431915771D0048834A /* CORArmorFactory.m */; };
+		87CBD30F19164A9200D79ECF /* CORAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 87CBD30E19164A9200D79ECF /* CORAction.m */; };
+		87CBD31219164CA400D79ECF /* CORActionFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 87CBD31119164CA400D79ECF /* CORActionFactory.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +58,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		876937561917A7120067E91E /* COREnemy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = COREnemy.h; sourceTree = "<group>"; };
+		876937571917A7120067E91E /* COREnemy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = COREnemy.m; sourceTree = "<group>"; };
+		876937591917A81D0067E91E /* COREnemyFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = COREnemyFactory.h; sourceTree = "<group>"; };
+		8769375A1917A81D0067E91E /* COREnemyFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = COREnemyFactory.m; sourceTree = "<group>"; };
+		878A6C4D191806A0005D5F9C /* leatherArmor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leatherArmor.png; sourceTree = "<group>"; };
+		878A6C4F19180E85005D5F9C /* woodenSword.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = woodenSword.png; sourceTree = "<group>"; };
+		878A6C5119181E2C005D5F9C /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		878A6C5219181E2C005D5F9C /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		878A6C5319181E2C005D5F9C /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		878A6C5419181E2C005D5F9C /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		878A6C5519181E2C005D5F9C /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		878A6C5619181E2C005D5F9C /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		878A6C5719181E2C005D5F9C /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iTunesArtwork.png; sourceTree = "<group>"; };
+		878A6C5819181E2C005D5F9C /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		878A6C5919181E2C005D5F9C /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		878A6C5A19181E2C005D5F9C /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
 		87A78CF01915125A0048834A /* PirateGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PirateGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87A78CF31915125A0048834A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		87A78CF51915125A0048834A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +93,25 @@
 		87A78D1A1915125A0048834A /* PirateGameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PirateGameTests-Info.plist"; sourceTree = "<group>"; };
 		87A78D1C1915125A0048834A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		87A78D1E1915125A0048834A /* PirateGameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PirateGameTests.m; sourceTree = "<group>"; };
+		87A78D2919151DE90048834A /* CORCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORCharacter.h; sourceTree = "<group>"; };
+		87A78D2A19151DE90048834A /* CORCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORCharacter.m; sourceTree = "<group>"; };
+		87A78D2C19151E300048834A /* CORWeapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORWeapon.h; sourceTree = "<group>"; };
+		87A78D2D19151E300048834A /* CORWeapon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORWeapon.m; sourceTree = "<group>"; };
+		87A78D2F191527730048834A /* CORArmor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORArmor.h; sourceTree = "<group>"; };
+		87A78D30191527730048834A /* CORArmor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORArmor.m; sourceTree = "<group>"; };
+		87A78D3219152A8F0048834A /* PixelPirate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PixelPirate.png; sourceTree = "<group>"; };
+		87A78D36191548620048834A /* CORTileFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORTileFactory.h; sourceTree = "<group>"; };
+		87A78D37191548620048834A /* CORTileFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORTileFactory.m; sourceTree = "<group>"; };
+		87A78D3C19154AF70048834A /* CORTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORTile.h; sourceTree = "<group>"; };
+		87A78D3D19154AF70048834A /* CORTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORTile.m; sourceTree = "<group>"; };
+		87A78D3F19156FD60048834A /* CORWeaponFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORWeaponFactory.h; sourceTree = "<group>"; };
+		87A78D4019156FD60048834A /* CORWeaponFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORWeaponFactory.m; sourceTree = "<group>"; };
+		87A78D421915771D0048834A /* CORArmorFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORArmorFactory.h; sourceTree = "<group>"; };
+		87A78D431915771D0048834A /* CORArmorFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORArmorFactory.m; sourceTree = "<group>"; };
+		87CBD30D19164A9200D79ECF /* CORAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORAction.h; sourceTree = "<group>"; };
+		87CBD30E19164A9200D79ECF /* CORAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORAction.m; sourceTree = "<group>"; };
+		87CBD31019164CA400D79ECF /* CORActionFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CORActionFactory.h; sourceTree = "<group>"; };
+		87CBD31119164CA400D79ECF /* CORActionFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CORActionFactory.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +138,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		878A6C6519181E6C005D5F9C /* AppIcon */ = {
+			isa = PBXGroup;
+			children = (
+				878A6C5119181E2C005D5F9C /* Icon-40@2x.png */,
+				878A6C5219181E2C005D5F9C /* Icon-40.png */,
+				878A6C5319181E2C005D5F9C /* Icon-Small.png */,
+				878A6C5419181E2C005D5F9C /* Icon-76.png */,
+				878A6C5519181E2C005D5F9C /* iTunesArtwork@2x.png */,
+				878A6C5619181E2C005D5F9C /* Icon-60.png */,
+				878A6C5719181E2C005D5F9C /* iTunesArtwork.png */,
+				878A6C5819181E2C005D5F9C /* Icon-60@2x.png */,
+				878A6C5919181E2C005D5F9C /* Icon-76@2x.png */,
+				878A6C5A19181E2C005D5F9C /* Icon-Small@2x.png */,
+			);
+			name = AppIcon;
+			sourceTree = "<group>";
+		};
 		87A78CE71915125A0048834A = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +188,18 @@
 		87A78CF91915125A0048834A /* PirateGame */ = {
 			isa = PBXGroup;
 			children = (
+				878A6C6519181E6C005D5F9C /* AppIcon */,
+				87A78D3C19154AF70048834A /* CORTile.h */,
+				87A78D3D19154AF70048834A /* CORTile.m */,
+				87A78D2C19151E300048834A /* CORWeapon.h */,
+				87A78D2D19151E300048834A /* CORWeapon.m */,
+				87A78D2F191527730048834A /* CORArmor.h */,
+				87A78D30191527730048834A /* CORArmor.m */,
+				876937561917A7120067E91E /* COREnemy.h */,
+				876937571917A7120067E91E /* COREnemy.m */,
+				87A78D28191512E20048834A /* Factory */,
+				87CBD30D19164A9200D79ECF /* CORAction.h */,
+				87CBD30E19164A9200D79ECF /* CORAction.m */,
 				87A78D021915125A0048834A /* CORAppDelegate.h */,
 				87A78D031915125A0048834A /* CORAppDelegate.m */,
 				87A78D051915125A0048834A /* Main.storyboard */,
@@ -119,6 +207,8 @@
 				87A78D091915125A0048834A /* CORViewController.m */,
 				87A78D0B1915125A0048834A /* Images.xcassets */,
 				87A78CFA1915125A0048834A /* Supporting Files */,
+				87A78D2919151DE90048834A /* CORCharacter.h */,
+				87A78D2A19151DE90048834A /* CORCharacter.m */,
 			);
 			path = PirateGame;
 			sourceTree = "<group>";
@@ -126,6 +216,9 @@
 		87A78CFA1915125A0048834A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				878A6C4F19180E85005D5F9C /* woodenSword.png */,
+				878A6C4D191806A0005D5F9C /* leatherArmor.png */,
+				87A78D3219152A8F0048834A /* PixelPirate.png */,
 				87A78CFB1915125A0048834A /* PirateGame-Info.plist */,
 				87A78CFC1915125A0048834A /* InfoPlist.strings */,
 				87A78CFF1915125A0048834A /* main.m */,
@@ -150,6 +243,23 @@
 				87A78D1B1915125A0048834A /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		87A78D28191512E20048834A /* Factory */ = {
+			isa = PBXGroup;
+			children = (
+				87CBD31019164CA400D79ECF /* CORActionFactory.h */,
+				87CBD31119164CA400D79ECF /* CORActionFactory.m */,
+				87A78D36191548620048834A /* CORTileFactory.h */,
+				87A78D37191548620048834A /* CORTileFactory.m */,
+				87A78D3F19156FD60048834A /* CORWeaponFactory.h */,
+				87A78D4019156FD60048834A /* CORWeaponFactory.m */,
+				87A78D421915771D0048834A /* CORArmorFactory.h */,
+				87A78D431915771D0048834A /* CORArmorFactory.m */,
+				876937591917A81D0067E91E /* COREnemyFactory.h */,
+				8769375A1917A81D0067E91E /* COREnemyFactory.m */,
+			);
+			name = Factory;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +339,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				878A6C5C19181E2C005D5F9C /* Icon-40.png in Resources */,
 				87A78D0C1915125A0048834A /* Images.xcassets in Resources */,
+				878A6C6019181E2C005D5F9C /* Icon-60.png in Resources */,
+				878A6C6219181E2C005D5F9C /* Icon-60@2x.png in Resources */,
+				878A6C5F19181E2C005D5F9C /* iTunesArtwork@2x.png in Resources */,
+				87A78D3319152A8F0048834A /* PixelPirate.png in Resources */,
+				878A6C4E191806A0005D5F9C /* leatherArmor.png in Resources */,
+				878A6C5019180E85005D5F9C /* woodenSword.png in Resources */,
+				878A6C6119181E2C005D5F9C /* iTunesArtwork.png in Resources */,
+				878A6C5B19181E2C005D5F9C /* Icon-40@2x.png in Resources */,
 				87A78CFE1915125A0048834A /* InfoPlist.strings in Resources */,
+				878A6C5E19181E2C005D5F9C /* Icon-76.png in Resources */,
 				87A78D071915125A0048834A /* Main.storyboard in Resources */,
+				878A6C6419181E2C005D5F9C /* Icon-Small@2x.png in Resources */,
+				878A6C6319181E2C005D5F9C /* Icon-76@2x.png in Resources */,
+				878A6C5D19181E2C005D5F9C /* Icon-Small.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,8 +374,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				87A78D0A1915125A0048834A /* CORViewController.m in Sources */,
+				87A78D4119156FD60048834A /* CORWeaponFactory.m in Sources */,
+				87A78D38191548620048834A /* CORTileFactory.m in Sources */,
 				87A78D001915125A0048834A /* main.m in Sources */,
+				87A78D31191527730048834A /* CORArmor.m in Sources */,
+				876937581917A7120067E91E /* COREnemy.m in Sources */,
+				87A78D2B19151DE90048834A /* CORCharacter.m in Sources */,
+				87A78D3E19154AF70048834A /* CORTile.m in Sources */,
+				87A78D441915771D0048834A /* CORArmorFactory.m in Sources */,
 				87A78D041915125A0048834A /* CORAppDelegate.m in Sources */,
+				8769375B1917A81D0067E91E /* COREnemyFactory.m in Sources */,
+				87CBD30F19164A9200D79ECF /* CORAction.m in Sources */,
+				87A78D2E19151E300048834A /* CORWeapon.m in Sources */,
+				87CBD31219164CA400D79ECF /* CORActionFactory.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +591,7 @@
 				87A78D241915125A0048834A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		87A78D251915125A0048834A /* Build configuration list for PBXNativeTarget "PirateGameTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +600,7 @@
 				87A78D271915125A0048834A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
